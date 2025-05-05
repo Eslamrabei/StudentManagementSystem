@@ -6,7 +6,7 @@ namespace StudentManagementSystem
 {
     class Program
     {
-        static string connectionString = "Server=ESLAM\\TESTING;Database=StudentDB;Trusted_Connection=True;";
+        static string connectionString = "Server=localhost;Database=StudentDB;Trusted_Connection=True;";
 
         static void Main(string[] args)
         {
